@@ -1,0 +1,2 @@
+This is a f1 file 
+And This is fun learn basic git command
